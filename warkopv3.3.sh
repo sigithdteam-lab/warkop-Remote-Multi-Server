@@ -2,7 +2,8 @@
 # ============================================================
 # Multi-server SSH Key & Connection Management Script V-3.3
 # Supports multiple OS (Debian/Ubuntu, RHEL/CentOS, etc.)
-# Juli 2026 by sigit afandhi - apjii
+# Copyright (C) 2026 sigithdteam-lab
+# GNU General Public License v3.0
 # Versi dioptimalkan: caching, paralelisasi, perbaikan performa,
 # penanganan sudo otomatis berdasarkan deteksi user root.
 # ============================================================
