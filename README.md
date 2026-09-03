@@ -360,7 +360,7 @@ The script uses color-coded output for readability:
 
 · Version: 3.3
 · Date: July 2026
-· Author: sigit afandhi - apjii
+· Author: sigit hdteam-lab
 
 ---
 
